@@ -1,7 +1,5 @@
 ### Hello!  ✨ _Welcome_ ✨  👋
 
-**fabiolpgomes/fabiolpgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🖋 Start of this journey in the schedule: April/22.
 -  🤖 Desenvolvedor Full Stack 
 
