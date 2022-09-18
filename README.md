@@ -1,6 +1,6 @@
 ### Hello!  ✨ _Welcome_ ✨  👋
 
-- 🖋 Start of this journey in the schedule: April/22.
+- 🖋 Start of this journey in the schedule: Jun/22.
 -  🤖 Desenvolvedor Full Stack 
 
 <div align="center">
