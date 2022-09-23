@@ -1,7 +1,7 @@
 ### Hello!  ✨ _Welcome_ ✨  👋
 
 - 🖋 Start of this journey in the schedule: June/22.
--  🤖 Desenvolvedor Full Stack 
+-  🤖 Developer Full Stack 
 
 <div align="center">
   <a href="https://github.com/fabiolpgomes">
