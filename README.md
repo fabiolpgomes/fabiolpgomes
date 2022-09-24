@@ -7,7 +7,8 @@
   <a href="https://github.com/fabiolpgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolpgomes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolpgomes&layout=compact&langs_count=7&theme=gotham"/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn´t reflect experience or skill level.
+    <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn´t reflect experience or skill level.
     <br/>
 </div>
 <div style="display: inline_block"><br>
