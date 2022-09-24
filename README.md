@@ -3,7 +3,7 @@
 - 🖋 Start of this journey in the schedule: June/22.
 -  🤖 Developer Full Stack 
 
-<div style="display: inline_block">  //align="center"
+<div style="display: inline_block">  
   <a href="https://github.com/fabiolpgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolpgomes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolpgomes&layout=compact&langs_count=7&theme=gotham"/>
