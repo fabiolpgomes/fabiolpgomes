@@ -6,7 +6,6 @@ My personal and professional goal is to generate a positive impact on society an
 - 🖋 Start of this journey in the schedule: June/22.
 -  🤖 Developer Full Stack 
 
-Would you like to find me?
 
 <div style="display: inline_block">  
   <a href="https://github.com/fabiolpgomes">
