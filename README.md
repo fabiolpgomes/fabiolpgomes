@@ -3,7 +3,7 @@
 My name is Fabio Gomes, and I'm from Brazil (🇧🇷), I currently live in Antwerp, Belgium.
 My personal and professional goal is to generate a positive impact on society and I found in coding a fascination similar to business management that allows me to design and create solutions that meet this purpose. I made the decision to go in search of this new learning. Ironhack's bootcamp gave me the possibility to develop knowledge in MongoDB, Express, React.js, Node, JavaScript, Html5 and CSS3, improve my knowledge and meet the demands of today's relevant skill sets in the tech industry.
 
-- 🖋 Start of this journey in the schedule: June/22.
+- 🖋 Start of this journey in the schedule: May/22.
 -  🤖 Developer Full Stack 
 
 
