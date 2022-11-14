@@ -9,6 +9,7 @@ As the philosopher Socrates said, 'I only know that I know nothing, and the fact
 
 - 🖋 Start of this journey in the schedule: May/22.
 -  🤖 Developer Full Stack 
+-  EU citizenship
 
 
 <div style="display: inline_block">  
