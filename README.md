@@ -7,7 +7,6 @@ And as I became passionate about programming, I continue to study and acquire kn
 
 As the philosopher Socrates said, 'I only know that I know nothing, and the fact of knowing this puts me at an advantage over those who think they know something'
 
-- 🖋 Start of this journey in the schedule: May/22.
 -  🤖 Developer Full Stack 
 -  EU citizenship
 
