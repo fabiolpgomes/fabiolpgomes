@@ -1,6 +1,6 @@
 ### Hello! ✨ _Welcome_ ✨  👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 My name is Fabio Gomes, and I'm from Brazil (🇧🇷), I currently live in Antwerp, Belgium.
 My personal and professional goal is to generate a positive impact on society and I found in coding a fascination similar to business management that allows me to design and create solutions that meet this purpose. I made the decision to go in search of this new learning. Ironhack's bootcamp gave me the possibility to develop knowledge in MongoDB, Express, React.js, Node, JavaScript, Html5 and CSS3, improve my knowledge and meet the demands of today's relevant skill sets in the tech industry.
