@@ -17,8 +17,10 @@ As the philosopher Socrates said, 'I only know that I know nothing, and the fact
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiolpgomes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolpgomes&layout=compact&langs_count=7&theme=gotham"/>
   <br/>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=fabiolpgomes&theme=highcontrast)](https://git.io/streak-stats)
+    
+    ![GitHub Streak](https://streak-stats.demolab.com?user=fabiolpgomes)
     <br/>
+    
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn´t reflect experience or skill level.
     <br/>
 </div>
