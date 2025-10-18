@@ -1,15 +1,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-My name is Fabio Gomes, and I'm from Brazil (🇧🇷), I currently live in Antwerp, Belgium.
-My personal and professional goal is to generate a positive impact on society and I found in coding a fascination similar to business management that allows me to design and create solutions that meet this purpose. I made the decision to go in search of this new learning. Ironhack's bootcamp gave me the possibility to develop knowledge in MongoDB, Express, React.js, Node, JavaScript, Html5 and CSS3, improve my knowledge and meet the demands of today's relevant skill sets in the tech industry.
+My name is Fábio Gomes, I'm Brazilian (🇧🇷) and I currently live in Antwerp, Belgium.
+My personal and professional goal is to make a positive impact on society, and I found a similar fascination in programming as business management, allowing me to design and create solutions that meet this purpose. I decided to pursue this new learning. The Ironhack bootcamp gave me the opportunity to develop knowledge in MongoDB, Express, React.js, Node, JavaScript, HTML5, and CSS3, honing my skills, and meeting the current demand for relevant skills in the technology industry.
 
-And as I became passionate about programming, I continue to study and acquire knowledge.
+And as I fell in love with programming, I continue to study and acquire knowledge.
 
-As the philosopher Socrates said, 'I only know that I know nothing, and the fact of knowing this puts me at an advantage over those who think they know something'
+I'm currently developing a customized Artificial Intelligence system for companies and entrepreneurs that masters their business and works 24/7 with the expertise of a specialist.
 
--  🤖 Developer Full Stack 
--  EU citizenship
+As the philosopher Socrates said: "I only know that I know nothing, and knowing this gives me an advantage over those who think they know something."
+
+- 🤖 Prompt Engineer
+- Full Stack Developer
+- EU Citizenship
 
 
 <div style="display: inline_block">  
