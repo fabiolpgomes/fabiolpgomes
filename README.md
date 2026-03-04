@@ -23,7 +23,7 @@ As the philosopher Socrates said: "I only know that I know nothing, and knowing 
     
   
     
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Dabiolpgomes)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Fabiolpgomes)](https://git.io/streak-stats)
     
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn´t reflect experience or skill level.
     <br/>
