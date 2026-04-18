@@ -10,7 +10,7 @@ I'm currently developing a customized Artificial Intelligence system for compani
 
 As the philosopher Socrates said: "I only know that I know nothing, and knowing this gives me an advantage over those who think they know something."
 
-- 🤖 Prompt Engineer
+- 🤖 AI Specialist
 - Full Stack Developer
 - EU Citizenship
 
