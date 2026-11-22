@@ -1,18 +1,66 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-My name is Fábio Gomes, I'm Brazilian (🇧🇷) and I currently live in Antwerp, Belgium.
-My personal and professional goal is to make a positive impact on society, and I found a similar fascination in programming as business management, allowing me to design and create solutions that meet this purpose. I decided to pursue this new learning. The Ironhack bootcamp gave me the opportunity to develop knowledge in MongoDB, Express, React.js, Node, JavaScript, HTML5, and CSS3, honing my skills, and meeting the current demand for relevant skills in the technology industry.
+# Hi, I'm Fábio Gomes 👋
 
-And as I fell in love with programming, I continue to study and acquire knowledge.
+### AI Solutions Architect | SaaS Founder | Full Stack Developer
 
-I'm currently developing a customized Artificial Intelligence system for companies and entrepreneurs that masters their business and works 24/7 with the expertise of a specialist.
+🇧🇷 Originally from Brazil | 🇧🇪 Based in Antwerp, Belgium
 
-As the philosopher Socrates said: "I only know that I know nothing, and knowing this gives me an advantage over those who think they know something."
+I'm a technology entrepreneur and software developer combining **business strategy, financial expertise, and artificial intelligence** to build scalable digital products that solve real-world problems.
 
-- 🤖 AI Specialist
-- Full Stack Developer
-- EU Citizenship
+My professional journey spans business management, financial consulting, entrepreneurship, and software engineering. This multidisciplinary background shapes how I approach technology: **I don't just build software — I build solutions that create measurable business value.**
+
+### 🚀 What I'm Building
+
+**🏡 Lodgra — AI-Native Property Management SaaS**
+
+Founder and developer of Lodgra, a multi-tenant property management platform designed for vacation rental businesses and property managers.
+
+- Multi-tenant SaaS architecture
+- AI-powered business workflows and automation
+- Reservation management and calendar synchronization
+- Booking engine and payment integrations
+- Financial reporting and operational analytics
+- Integrations with external platforms and APIs
+
+**🤖 AI-Powered Business Solutions**
+
+Designing and developing intelligent systems that help businesses automate processes, structure information, improve decision-making, and scale operations.
+
+My focus includes:
+
+- Generative AI and LLM integrations
+- AI agents and workflow orchestration
+- Business process automation
+- API integrations and backend development
+- AI-native SaaS products
+
+### 🛠️ Technology & Development
+
+**Languages & Frontend:** JavaScript, HTML5, CSS3, React.js
+
+**Backend & Databases:** Node.js, Express.js, MongoDB, PostgreSQL
+
+**AI & Automation:** Generative AI, LLMs, AI Agents, Prompt Engineering
+
+**Development & Infrastructure:** Git, GitHub, REST APIs, SaaS Architecture, Multi-Tenant Systems
+
+### 💡 My Philosophy
+
+Technology should do more than automate tasks. It should solve meaningful problems, improve operational efficiency, and generate measurable value.
+
+I believe the most effective software emerges when technical expertise meets a deep understanding of business challenges.
+
+### 🤝 Let's Connect
+
+I'm interested in collaborating with developers, AI engineers, SaaS founders, and businesses exploring practical applications of artificial intelligence.
+
+🌐 [Lodgra](https://www.lodgra.io)
+
+📍 Antwerp, Belgium | European Union
+
+**Building intelligent software. Solving real business problems.**
 
   
     
